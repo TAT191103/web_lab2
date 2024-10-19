@@ -1,0 +1,25 @@
+
+//
+
+3.1: nhan double click vao file se hien len trang web.
+3.2: nhaan double click vao file se hien len source code cua file.
+3.3: web hien len giong lab2_1a.html.
+3.4: source code tren browser cua lab2_1a va lab2_1b giong nhau.
+
+//
+
+4.1: + xuat ra kq=0. 
+     + Vi khi khong khai bao global cho kq trong function thi no chi chay trong function thoi khong chay duoc ben ngoai function.
+4.2: co the thay the bang: define("PI",3.14);
+4.3: + no xac dinh khac nhau la vi "===" so sanh ca kieu du lieu va "a" khac kieu du lieu cua "x". 
+     + muon xuat giong nhau thi phai doi "===" htanh "==" khi do no se khong so sanh kieu du lieu nua.
+4.4: do khong co dong include nen bien x khong duoc khoi tao va hien ra khong ton tai bien x.
+4.5: ket qua gia tri cua x=20.
+4.6: ket qua gia tri cua x=30.
+4.7: ket qua gia tri cua x=20 nho hon x=30 cua 4.6 vi khi dung include_once thi no chi duoc khai bao mot lan neu file do da khai bao roi thi se khong khai bao nua.
+4.8: ket qua hien ra van giong cua 4.6 va 4.7.
+4.9: include xuat loi xong nhung van chay tiep nhung doan code khong bi loi con require neu gap loi se dung lai luon.
+
+//
+
+
